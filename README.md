@@ -2,8 +2,8 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="./folder/crop.png" width="488"  />
+<div align="center">
+  <img height="200" src="./folder/crop.png" width="500"  />
 </div>
 
 ###
