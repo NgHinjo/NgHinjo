@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="[GaleRhIbIAAOr3u.jpg](https://github.com/NgHinjo/NgHinjo/blob/main/folder/GaleRhIbIAAOr3u.jpg)"  />
+  <img height="200" src="[blob:https://imgur.com/220d438e-6864-4d43-84dd-6fd9ebcefb74](https://github.com/NgHinjo/NgHinjo/blob/main/folder/crop.png)"  />
 </div>
 
 ###
@@ -70,7 +70,9 @@
 
 ###
 
-<img align="right" height="200" src="[ウッーウッーウマウマ-nikke.gif](https://github.com/NgHinjo/NgHinjo/blob/main/folder/%E3%82%A6%E3%83%83%E3%83%BC%E3%82%A6%E3%83%83%E3%83%BC%E3%82%A6%E3%83%9E%E3%82%A6%E3%83%9E-nikke.gif)"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://i.imgflip.com/97si6c.gif"  />
 
 ###
 
