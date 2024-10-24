@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<p align="left">Socials</p>
+<p align="left">📷 - Socials</p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<p align="left">Currently Studying.</p>
+<p align="left">📚💻 - Currently Studying.</p>
 
 ###
 
