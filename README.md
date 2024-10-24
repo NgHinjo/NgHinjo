@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="./folder/Untitled.png" width="488" />
 </div>
 
