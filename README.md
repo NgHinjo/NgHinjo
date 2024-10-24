@@ -70,7 +70,7 @@
 
 ###
 
-<img align="right" height="200" src="ウッーウッーウマウマ-nikke.gif"  />
+<img align="right" height="200" src="[ウッーウッーウマウマ-nikke.gif](https://github.com/NgHinjo/NgHinjo/blob/main/folder/%E3%82%A6%E3%83%83%E3%83%BC%E3%82%A6%E3%83%83%E3%83%BC%E3%82%A6%E3%83%9E%E3%82%A6%E3%83%9E-nikke.gif)"  />
 
 ###
 
