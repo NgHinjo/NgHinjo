@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="GaleRhIbIAAOr3u.jpg"  />
+  <img height="200" src="[GaleRhIbIAAOr3u.jpg](https://github.com/NgHinjo/NgHinjo/blob/main/folder/GaleRhIbIAAOr3u.jpg)"  />
 </div>
 
 ###
