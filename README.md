@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="./folder/GaleRhIbIAAOr3u.jpg" width="720" />
+<div align="right">
+  <img height="200" src="./folder/GWZOD43XoAECDKN-crop.jpg" />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/97si6c.gif"  />
+<img align="right" height="200" src="./folder/ウッーウッーウマウマ-nikke.gif"  />
 
 ###
 
