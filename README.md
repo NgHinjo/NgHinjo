@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="[blob:https://imgur.com/220d438e-6864-4d43-84dd-6fd9ebcefb74](https://github.com/NgHinjo/NgHinjo/blob/main/folder/crop.png)"  />
+  <img height="200" src="./folder/crop.png" width="488"  />
 </div>
 
 ###
