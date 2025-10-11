@@ -75,11 +75,3 @@
 <img align="right" height="200" src="./folder/ウッーウッーウマウマ-nikke.gif"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vs27iirlt167lexsf5zfjc64o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vs27iirlt167lexsf5zfjc64o&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
